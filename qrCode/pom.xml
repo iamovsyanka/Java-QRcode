@@ -32,19 +32,9 @@
             <version>1.11</version>
         </dependency>
         <dependency>
-            <groupId>io.github.ehn-digital-green-development</groupId>
-            <artifactId>base45</artifactId>
-            <version>0.0.3</version>
-        </dependency>
-        <dependency>
             <groupId>org.projectlombok</groupId>
             <artifactId>lombok</artifactId>
             <version>1.18.20</version>
-        </dependency>
-        <dependency>
-            <groupId>jakarta.validation</groupId>
-            <artifactId>jakarta.validation-api</artifactId>
-            <version>3.0.0</version>
         </dependency>
     </dependencies>
 </project>

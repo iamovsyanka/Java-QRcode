@@ -3,7 +3,6 @@ package service;
 import com.google.zxing.*;
 import com.google.zxing.client.j2se.BufferedImageLuminanceSource;
 import com.google.zxing.common.HybridBinarizer;
-import jakarta.validation.constraints.NotNull;
 import lombok.NonNull;
 import net.glxn.qrgen.javase.QRCode;
 
